@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: out
+
+website:
+  title: "phd_defense_presentation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
