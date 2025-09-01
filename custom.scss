@@ -30,7 +30,7 @@ $presentation-h1-font-size: 2em;
 /*-- scss:rules --*/
 
 .big-center {
-  font-size: 1.5em !important;
+  font-size: 1.5em;
   text-align: center;
   display: flex;
   flex-direction: column;   /* stack elements vertically */
@@ -39,7 +39,7 @@ $presentation-h1-font-size: 2em;
   height: 100%;              /* take full slide height */
 }
 
-.center {
+.normal-center {
   text-align: center;
   display: flex;
   flex-direction: column;   /* stack elements vertically */

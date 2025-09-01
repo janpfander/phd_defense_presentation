@@ -34,9 +34,9 @@ library(broom.mixed)
 library(ggpubr)
 ```
 
-## {.big-center}
-
+::: {.big-center}
 Trust in science matters...
+:::
 
 ---
 
@@ -62,9 +62,9 @@ Similarly, not trusting vaccines puts both ourselves and others at serious healt
 
 ---
 
-## {.big-center}
-
+::: {.big-center}
 Researchers are typically interested in why people do *NOT* trust science
+:::
 
 ---
 
@@ -96,13 +96,15 @@ Researchers are typically interested in why people do *NOT* trust science
 
 ---
 
-## {.big-center}
+::: {.big-center}
 
 But:
 
-. . .
-
+::: {.fragment}
 Across the globe, most people *do* tend to trust science. 
+:::
+
+:::
 
 ---
 
@@ -160,7 +162,11 @@ People don't know much about science
 
 :::{.big-center}
 
-In 2014, 51 % of U.S. adults (correctly) stated that electrons are smaller than atoms.
+For example...
+
+::: {.fragment}
+In 2014, only 51 % of U.S. adults (correctly) stated that electrons are smaller than atoms.
+:::
 
 ::: {.fragment}
 (46% in the European Union in 2005)
@@ -190,7 +196,7 @@ In 2014, 51 % of U.S. adults (correctly) stated that electrons are smaller than 
 :::{.big-center}
 
 ::: {.fragment}
-Un 2020, 
+In 2020, 
 
 "60% of U.S. adults could correctly note that a control group can be useful in making sense of study results"
 :::
@@ -201,7 +207,7 @@ Un 2020,
 
 ::: {.column width="80%"}
 
-::: {.center}
+::: {.normal-center}
 ![@nationalscienceboardnationalsciencefoundationScienceTechnologyPublic2024, p.24](images/science_engineering_indicators.png)
 :::
 
@@ -279,7 +285,7 @@ So how do we know that scientists are right?
 
 # [Chapter 3] <br> <br> Trusting but forgetting impressive science 
 
-::: {.absolute right="-3%"bottom="-3%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
+::: {.absolute right="-10%" bottom="-10%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
 [@pfanderTrustingForgettingImpressive2025]
 :::
 
@@ -375,10 +381,13 @@ Scale: “Would you agree that reading this text has made you think of [archaeol
 ## Study 2
 
 ::: {.big-center}
-Participants read the impressive version of the texts from Study 1.
 
 ::: {.fragment}
-Again, participants reported increased perceptions of trust/competence.
+Participants read the impressive version of the texts from Study 1.
+:::
+
+::: {.fragment}
+Again, participants reported increased perceptions of trust and competence.
 :::
 
 :::
@@ -448,7 +457,7 @@ mean = 32%, median= 29%
 
 ---
 
-## Main results
+## Conclusion
 
 ::: {.big-center}
 
@@ -480,8 +489,9 @@ Two arguments against this:
 
 ## Two basic cognitive mechanisms
 
-
+::: {style="font-size:1.5em;"}
 1. People infer competence from possessing rare knowledge. But while the impression of competence persists, people forget the specific knowledge [Chapter 3]
+:::
 
 ::: {.fragment fragment-index=1 style="font-size:1.5em;"}
 ::: {.fragment .highlight-red fragment-index=2}
@@ -489,9 +499,6 @@ Two arguments against this:
 :::
 :::
 
-::: {.notes}
-
-:::
 
 
 # [Chapter 4] <br> <br> How wise is the crowd: <br> Can we infer people are accurate and competent merely because they agree with each other?
@@ -581,18 +588,20 @@ This inference--from agreement to both accuracy and competence--is, in fact, rat
 
 ::: {.big-center}
 
-::: {.fragment}
 The literature on wisdom of crowds has established that it is justified to infer accuracy from consensus...[*assuming a certain competence of the individuals*.]{.fragment} 
-:::
 
 ::: {.fragment}
 In simulations, we show that this competence assumption is not needed.
 :::
 
 ::: {.fragment}
-In fact, it is justified to infer both accuracy *and* competence from convergence.
+In fact, it is justified to infer both accuracy *and* competence from convergence, in many scenarios.
 :::
 
+:::
+
+::: {.notes}
+The most important assumption underlying these simulations was that informants are not systematically biased, i.e. all of them share a tendency to be wrong.
 :::
 
 ---
@@ -629,20 +638,11 @@ Divergent
 
 ---
 
-## Main results
-
 ::: {.big-center}
+Participant behaved as what was predicted to be rational by our simulations: 
 
 ::: {.fragment}
-Participants rated more convergent groups as more likely to be accurate and to be competent.
-:::
-
-::: {.fragment}
-In simulations, we showed that this inference is rational under a wide range of assumptions. 
-:::
-
-::: {.fragment}
-(the most important assumption being that informants are not systematically biased)
+They rated more convergent groups as more likely to be accurate and to be competent.
 :::
 
 :::
@@ -653,13 +653,11 @@ In simulations, we showed that this inference is rational under a wide range of 
 
 ::: {.big-center}
 
-::: {.fragment fragment-index=1}
-::: {.fragment .highlight-red fragment-index=3}
+::: {.fragment .highlight-red fragment-index=2}
 [Chapter 5] People should trust science more if they perceive it as more consensual and precise.
 :::
-:::
 
-::: {.fragment fragment-index=2}
+::: {.fragment fragment-index=1}
 [Chapter 6] People who have been exposed to science (mostly during school) should trust most of science. 
 :::
 
@@ -667,7 +665,7 @@ In simulations, we showed that this inference is rational under a wide range of 
 
 # [Chapter 5] <br> <br> The French trust more the sciences they perceive as precise and consensual
 
-::: {.absolute right="-3%" bottom="-3%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
+::: {.absolute right="-10%" bottom="-10%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
 [@pfanderFrenchTrustMore2025]
 :::
 
@@ -717,7 +715,7 @@ We also asked them about their trust.
 
 ::: {.big-center}
 
-**Predictions of the rational impression account** 
+**Predictions of the rational impression account:** 
 
 <br>
 
@@ -731,7 +729,7 @@ We also asked them about their trust.
 
 # [Chapter 6] <br> <br> Quasi-universal acceptance of basic science in the US
 
-::: {.absolute right="-3%" bottom="-3%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
+::: {.absolute right="-10%" bottom="-10%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
 [@pfanderQuasiuniversalAcceptanceBasic2025]
 :::
 
@@ -831,7 +829,7 @@ Then we asked: “Do you accept this answer?”
 
 ---
 
-## Main results
+## Conclusion
 
 ::: {.big-center}
 
@@ -851,7 +849,7 @@ Even participants who strongly believed that the earth is flat (4 % of participa
 
 # [Chapter 7] <br> <br> Spotting False News and Doubting True News, A Meta-Analysis of News Judgments
 
-::: {.absolute right="-3%" bottom="-3%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
+::: {.absolute right="-10%" bottom="-10%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
 [@pfanderSpottingFalseNews2025]
 :::
 
@@ -991,7 +989,25 @@ Only in 3 papers, the researchers automatically scraped news...
 
 ---
 
-![](meta_news_judgement/output/figures/forest-automated.png){width="70%"}
+![](images/forest-automated.png){width="70%"}
+
+:::{.notes}
+The Garret study has been a longitudinal study and therefor provides many, many effect sizes. 
+:::
+
+---
+
+## {.big-center}
+
+There might be a selection bias in news items that lets people appear more skeptical in misinformation studies than they are in the real world. 
+
+. . .
+
+But this does not change the broad conclusions... 
+
+:::{.notes}
+It is important to keep in mind that these are only 3 of more than 60 papers, all in the US. If they don't suffer from researcher selection bias of news items, they are not representative in many other ways...
+:::
 
 ---
 
@@ -1029,7 +1045,9 @@ Using these base rates of information consumption, people being skeptical might 
 
 ::: {.big-center}
 
+::: {.fragment}
 Misinformation (especially coming from elites) is a problem.
+:::
 
 ::: {.fragment}
 But people *not* believing true information might be the more pressing problem.
@@ -1121,11 +1139,11 @@ Just because there is a rational explanation for trust, distrust does not need t
 
 ## {.big-center}
 
-For example, some groups have been systematically neglected or ill-treated by science, e.g. African Americans. <span style="font-size: 50%;">[@brandtRacismResearchCase1978; @scharffMoreTuskegeeUnderstanding2010]</span> 
+Some groups have been systematically neglected or ill-treated by science, e.g. African Americans. <span style="font-size: 50%;">[@brandtRacismResearchCase1978; @scharffMoreTuskegeeUnderstanding2010]</span> 
 
 . . .
 
-Even if people believe scientists are competent, the might have reason to suspect that scientists don't have their best interest at heart. 
+Some people--even if they believe scientists are competent--can have reason to suspect that scientists don't have their best interest at heart. 
 
 . . .
 
@@ -1219,29 +1237,5 @@ Ultimately, doing better science will foster trust in science
 
 # Backup slides
 
----
 
-::::: {.columns style='display: flex !important; height: 90%;'}
-
-::: {.column .center-right width="50%" style="font-size:20px;"}
-
-Version A
-
-[(less impressive)]{.fragment fragment-index="2"}
-
-[Archaeology is the science that studies human history and prehistory based on the analysis of objects from the past such as human bones, engravings, constructions, and various objects, from nails to bits of pots. This task requires a great deal of carefulness, because objects from the past need to often be dug out from the ground and patiently cleaned, without destroying them in the process. <br> Archaeologists have been able to shed light on human history in all continents, from ancient Egypt to the Incas in Peru or the Khmers in Cambodia. <br> Archaeologists study the paintings made by our ancestors, such as those that can be found in Lascaux, a set of caves found in the south of France that have been decorated by people at least 30000 years ago.]{.fragment .fade-out fragment-index="1"} <br> Archaeologists have also found remains of our more distant ancestors, showing that our species is just one among several that appeared, and then either changed or went extinct, such as Neanderthals, Homo erectus, or Homo habilis.
-
-:::
-
-::: {.column .center-right width="50%" style="font-size:20px;"}
-
-Version B
-
-[(more impressive)]{.fragment fragment-index="2"}
-
-[Archaeologists, scientists who study human history and prehistory, are able to tell, from their bones, whether someone was male or female, how old they were, and whether they suffered from a range of diseases. Archaeologists can now tell at what age someone, dead for tens of thousands of years, stopped drinking their mother’s milk, from the composition of their teeth. <br> Archaeologists learn about the language that our ancestors or cousins might have had. For instance, the nerve that is used to control breathing is larger in humans than in apes, plausibly because we need more fine-grained control of our breathing in order to speak. <br> As a result, the canal containing that nerve is larger in humans than in apes – and it is also enlarged in Neanderthals.]{.fragment .fade-out fragment-index="1"} <br> Archaeologists can also tell, from an analysis of the tools they made, that most Neanderthals were right-handed. It’s thought that handedness is related to the evolution of language, another piece of evidence suggesting that Neanderthals likely possessed a form of language.
-
-:::
-
-::::
 
