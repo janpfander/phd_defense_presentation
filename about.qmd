@@ -1,5 +1,6 @@
 ---
 title: "About"
+bibliography: references.bib
 ---
 
 About this site
@@ -7,3 +8,5 @@ About this site
 ```{r}
 1 + 1
 ```
+
+@allenEvaluatingFakeNews2020a @cordonierHowFrenchInform2021

@@ -18,7 +18,6 @@ $presentation-h1-font-size: 2em;
 }
 
 /* Keep headings at the top */
-.reveal .slides section.big-center h1,
 .reveal .slides section.big-center h2,
 .reveal .slides section.big-center h3 {
   margin-top: 0;
@@ -31,7 +30,16 @@ $presentation-h1-font-size: 2em;
 /*-- scss:rules --*/
 
 .big-center {
-  font-size: 1.5em;
+  font-size: 1.5em !important;
+  text-align: center;
+  display: flex;
+  flex-direction: column;   /* stack elements vertically */
+  justify-content: center;   /* horizontal centering */
+  align-items: center;       /* vertical centering */
+  height: 100%;              /* take full slide height */
+}
+
+.center {
   text-align: center;
   display: flex;
   flex-direction: column;   /* stack elements vertically */
@@ -41,16 +49,3 @@ $presentation-h1-font-size: 2em;
 }
 
 
-.reveal .slides section .flex-bar {
-  position: absolute;   /* overlay positioned relative to the slide */
-  background-color: black; 
-  opacity: 1;        /* adjust transparency */
-  z-index: 10;          /* sits above normal content */
-}
-
-.v-center-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 90%;
-}

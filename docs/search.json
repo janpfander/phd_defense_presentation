@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "add_refs.html",
+    "href": "add_refs.html",
+    "title": "Untitled",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "wha"
   },
   {
     "objectID": "index.html#section",
     "href": "index.html#section",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "On many important matters, we need to trust science…"
+    "text": "Trust in science matters…"
   },
   {
     "objectID": "index.html#section-1",
@@ -25,7 +25,7 @@
     "href": "index.html#a-lack-of-trust-in-science-is-due-to",
     "title": "A cognitive perspective on trust in science",
     "section": "A lack of trust in science is due to…",
-    "text": "A lack of trust in science is due to…\n\n\na knowledge deficit (sturgisScienceSocietyReEvaluating2004?)\n\n\n\n\ncertain psychological traits, such as Social Dominance Orientation, conspiratory thinking, hierarchical worldviews (hornseyAttitudeRootsJiu2017?; rutjensConspiracyBeliefsScience2022?)\n\n\n\n\nmotivated reasoning, i.e. selecting and interpreting information to match one’s existing beliefs or behaviors (lewandowskyMotivatedRejectionScience2016?; Lewandowsky and Oberauer 2021)\n\n\n\n\nmisinformation (National Academies of Sciences 2024; Scheufele and Krause 2019; Druckman 2022)\n\n\n\n\npeople feeling alienated from modern and increasingly complex institutions (gauchatCulturalAuthorityScience2011?)"
+    "text": "A lack of trust in science is due to…\n\n\n\na knowledge deficit (Sturgis and Allum 2004)\n\n\n\n\ncertain psychological traits, such as Social Dominance Orientation, conspiratory thinking, hierarchical worldviews (Hornsey and Fielding 2017; Rutjens and Većkalov 2022)\n\n\n\n\nmotivated reasoning, i.e. selecting and interpreting information to match one’s existing beliefs or behaviors (Lewandowsky and Oberauer 2016, 2021)\n\n\n\n\nmisinformation (National Academies of Sciences 2024; Scheufele and Krause 2019; Druckman 2022)\n\n\n\n\npeople feeling alienated from modern and increasingly complex institutions (Gauchat 2011)"
   },
   {
     "objectID": "index.html#section-2",
@@ -39,14 +39,14 @@
     "href": "index.html#section-3",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "According to the deficit model, if trust in science is rational, its main driver should be knowledge and understanding of science.\n\nBut…"
+    "text": "According to existing accounts, if trust in science is rational, it should be caused mostly by knowledge and understanding of science.\n\nBut…"
   },
   {
     "objectID": "index.html#two-basic-cognitive-mechanisms",
     "href": "index.html#two-basic-cognitive-mechanisms",
     "title": "A cognitive perspective on trust in science",
     "section": "Two basic cognitive mechanisms",
-    "text": "Two basic cognitive mechanisms\n\n\nPeople infer competence from possessing rare knowledge. But while the impression of competence persists, people forget the specific knowledge [Chapter 3]\n\n\n\nFor example, if a colleague at work fixes our computer, we might remember that she is competent, but not exactly how she fixed it.\n\n\n\nPeople infer accuracy from consensus [Chapter 4]\n\n\n\nFor example, if we have to pick between two restaurants we don’t know, but everyone we ask says that Restaurant A is better, we’ll believe it is indeed better"
+    "text": "Two basic cognitive mechanisms\n\n\n\nPeople infer competence from possessing rare knowledge. But while the impression of competence persists, people forget the specific knowledge [Chapter 3]\n\n\n\n\nFor example, if a colleague at work fixes our computer, we might remember that she is competent, but not exactly how she fixed it.\n\n\n\nPeople infer accuracy from consensus [Chapter 4]\n\n\n\nFor example, if we have to pick between two restaurants we don’t know, but everyone we ask says that Restaurant A is better, we’ll believe it is indeed better\n\n\nIn the example with our colleague, we can evaluate that they are right, because we can see with our own eyes that our computer works after their fix.\nBut in the case of science, we cannot observe or interpret most of the results ourselves.\nSo how do we know that scientists are right?"
   },
   {
     "objectID": "index.html#study-1",
@@ -56,11 +56,11 @@
     "text": "Study 1\n\n\nVersion A (less impressive)\n\n[…]\n\n“Sometimes entomologists study insects by observing them in the wild, sometimes they conduct controlled experiments in laboratories, to see for example how different environmental factors change the behavior of insects, or to track exactly the same insects over a longer period of time.”\n\n[…]\n\n\nVersion B (more impressive)\n\n[…]\n\n“Entomologists interested in how flies’ visual perception works have used special displays to present images for much less than the blink of an eye, electrodes to record how individual cells in the flies’ brain react, and ultra-precise electron microscopy to examine their eyes.”\n\n[…]"
   },
   {
-    "objectID": "index.html#section-6",
-    "href": "index.html#section-6",
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "Participants perceived some science related information as more impressive than other\n\nParticipants who read the more impressive texts reported larger increases in trust in the discipline (e.g Archaeology) and perceptions of scientists (e.g. Archaeologists) as competent"
+    "text": "Participants perceived some science related information as more impressive than other.\n\nThis had an impact on their trust in the scientific discipline and their perceptions of the scientists’ competence…"
   },
   {
     "objectID": "index.html#study-2",
@@ -74,25 +74,25 @@
     "href": "index.html#main-results",
     "title": "A cognitive perspective on trust in science",
     "section": "Main results",
-    "text": "Main results\n\n\nWhen people read impressive scientific information, their trust in science increased\n\n\nThey then immediately forgot most of the content.\n\n\n\nNot just any content, but content that likely was important in generating the impression.\nMaybe the knowledge that participants forget is not relevant for the impression.\nTwo arguments against this:\n\nWe also asked participants after the task to pick impressive information bits. Even among the subset of impressive bits (specific to each participant), they still forgot content\nIn a validation study, we gave the recalled text to another set of participants. They rated them as less impressive than the original text.\n\n(if participants had retained all impressive information, and only strip down all the unimportant stuff, we would have predicted no difference)."
+    "text": "Main results\n\n\nWhen people read impressive scientific information, their trust in the scientific discipline increases\n\n\nThey then immediately forget most of the content.\n\n\n\nNot just any content, but content that likely was important in generating the impression.\nMaybe the knowledge that participants forget is not relevant for the impression.\nTwo arguments against this:\n\nWe also asked participants after the task to pick impressive information bits. Even among the subset of impressive bits (specific to each participant), they still forgot content\nIn a validation study, we gave the recalled text to another set of participants. They rated them as less impressive than the original text.\n\n(if participants had retained all impressive information, and only strip down all the unimportant stuff, we would have predicted no difference)."
   },
   {
-    "objectID": "index.html#why-is-this-interesting",
-    "href": "index.html#why-is-this-interesting",
+    "objectID": "index.html#two-basic-cognitive-mechanisms-1",
+    "href": "index.html#two-basic-cognitive-mechanisms-1",
     "title": "A cognitive perspective on trust in science",
-    "section": "Why is this interesting?",
-    "text": "Why is this interesting?\n\n\nThere’s nothing new on the psychological mechanisms here (lasting impressions, forgetting of details)\n\n\nBut it’s the first attempt to apply them to the case of science"
+    "section": "Two basic cognitive mechanisms",
+    "text": "Two basic cognitive mechanisms\n\nPeople infer competence from possessing rare knowledge. But while the impression of competence persists, people forget the specific knowledge [Chapter 3]\n\n\n\n\nPeople infer accuracy from consensus [Chapter 4]"
   },
   {
-    "objectID": "index.html#section-7",
-    "href": "index.html#section-7",
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "We showed articipants the results of several fictional scenarios, where individuals had made estimates (e.g. players in a game).\n\nParticipants did not have any information on what the game was about or who the players were."
+    "text": "We showed participants the results of several fictional scenarios, where individuals had made estimates (e.g. players in a game).\n\nParticipants did not have any information on what the game was about or who the players were."
   },
   {
-    "objectID": "index.html#section-8",
-    "href": "index.html#section-8",
+    "objectID": "index.html#section-6",
+    "href": "index.html#section-6",
     "title": "A cognitive perspective on trust in science",
     "section": "",
     "text": "Convergent\n\n\nDivergent"
@@ -105,92 +105,57 @@
     "text": "Main results\n\n\nParticipants rated more convergent groups as more likely to be accurate and to be competent.\n\n\nIn simulations, we showed that this inference is rational under a wide range of assumptions.\n\n\n(the most important assumption being that informants are not systematically biased)"
   },
   {
-    "objectID": "index.html#why-is-this-interesting-1",
-    "href": "index.html#why-is-this-interesting-1",
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
     "title": "A cognitive perspective on trust in science",
-    "section": "Why is this interesting?",
-    "text": "Why is this interesting?\n\n\nThe literature on wisdom of crowds has established that it is justified to infer accuracy from consensus…assuming a certain competence of the individuals.\n\n\nWe showed that this competence assumption is not needed. In fact, it is justified to infer competence from convergence."
+    "section": "",
+    "text": "We asked participants how consensual and precise they view\n\n\nscience in general\n\n\n\n\ndifferent scientific disciplines in particular.\n\n\n\nWe also asked them about their trust."
+  },
+  {
+    "objectID": "index.html#section-8",
+    "href": "index.html#section-8",
+    "title": "A cognitive perspective on trust in science",
+    "section": "",
+    "text": "Even if most people tend to trust science…"
   },
   {
     "objectID": "index.html#section-9",
     "href": "index.html#section-9",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "[Chapter 5] People should trust science more if they perceive it as more consensual and precise.\n\n[Chapter 6] People who have been exposed to science (mostly during school) should trust most of science."
-  },
-  {
-    "objectID": "index.html#section-10",
-    "href": "index.html#section-10",
-    "title": "A cognitive perspective on trust in science",
-    "section": "",
-    "text": "We asked participants how consensual and precise they view\n\n\nscience in general\n\n\n\n\ndifferent scientific disciplines in particular.\n\n\n\nWe also asked them about their trust."
-  },
-  {
-    "objectID": "index.html#section-11",
-    "href": "index.html#section-11",
-    "title": "A cognitive perspective on trust in science",
-    "section": "",
-    "text": "Even if most people tend to trust science…"
-  },
-  {
-    "objectID": "index.html#section-12",
-    "href": "index.html#section-12",
-    "title": "A cognitive perspective on trust in science",
-    "section": "",
-    "text": "Substantial minorities…\n\nsay that they don’t trust science in general (wellcomeglobalmonitorWellcomeGlobalMonitor2018?),\n\n\n\nor believe in conspiracy theories which reject the scientific consensus.\n\n\n\n\n(e.g., in 2023, 24% of Americans agreed that “climate change is a hoax and scientists touting its existence are lying”)(stockemerUnderstandingClimateChange2024?)"
-  },
-  {
-    "objectID": "index.html#section-13",
-    "href": "index.html#section-13",
-    "title": "A cognitive perspective on trust in science",
-    "section": "",
-    "text": "To which extent do these people reject science?\n\nAccording to the rational impression account, people who have been exposed to science (essentially everyone in the US, via education) should have a solid of baseline of trust in science."
-  },
-  {
-    "objectID": "index.html#section-14",
-    "href": "index.html#section-14",
-    "title": "A cognitive perspective on trust in science",
-    "section": "",
-    "text": "We asked participants basic science questions\n\nE.g., “Are electrons smaller, larger, or the same size as atoms?”\n\n\nWe then showed them the scientifically consensual answer, and in some studies also a short explanation, and links to sources.\n\n\nThen we asked: “Do you accept this answer?”"
+    "text": "To which extent do these people reject science?\n\nAccording to the rational impression account, people who have been exposed to science (essentially everyone who grew up in the US, via education) should have a solid baseline of trust in science."
   },
   {
     "objectID": "index.html#main-results-2",
     "href": "index.html#main-results-2",
     "title": "A cognitive perspective on trust in science",
     "section": "Main results",
-    "text": "Main results\n\n\nIn the US, essentially everyone accepts basic science knowledge.\n\n\nParticipants who were convinced that climate change due to fossil emissions is a hoax (11.4 % of participants) had an acceptance rate of 91.7 %.\n\n\nEven participants who strongly believed that the earth is flat (3.7 % of participants) had an acceptance rate of 87.2 %"
+    "text": "Main results\n\n\nIn the US, essentially everyone accepts basic science knowledge.\n\n\nParticipants who were convinced that climate change due to fossil emissions is a hoax (11 % of participants) had an acceptance rate of 92 %.\n\n\nEven participants who strongly believed that the earth is flat (4 % of participants) had an acceptance rate of 87 %"
   },
   {
-    "objectID": "index.html#why-is-this-interesting-2",
-    "href": "index.html#why-is-this-interesting-2",
-    "title": "A cognitive perspective on trust in science",
-    "section": "Why is this interesting?",
-    "text": "Why is this interesting?\n\n\nIf people were really not trusting science, they should reject science knowledge across the board.\n\n\nBut they don’t.\n\n\nThis suggests that people trust science as a default, but then reject science on certain contentious topics for other reasons."
-  },
-  {
-    "objectID": "index.html#section-15",
-    "href": "index.html#section-15",
+    "objectID": "index.html#section-10",
+    "href": "index.html#section-10",
     "title": "A cognitive perspective on trust in science",
     "section": "",
     "text": "There has been a lot of research on people’s belief in misinformation"
   },
   {
-    "objectID": "index.html#section-16",
-    "href": "index.html#section-16",
+    "objectID": "index.html#section-11",
+    "href": "index.html#section-11",
     "title": "A cognitive perspective on trust in science",
     "section": "",
     "text": "Discernment = Accuracy(true news) − Accuracy(false news)"
   },
   {
-    "objectID": "index.html#section-17",
-    "href": "index.html#section-17",
+    "objectID": "index.html#section-12",
+    "href": "index.html#section-12",
     "title": "A cognitive perspective on trust in science",
     "section": "",
     "text": "On the whole, people did well in discerning true from false news…\n\nbut of course they still made some errors."
   },
   {
-    "objectID": "index.html#section-18",
-    "href": "index.html#section-18",
+    "objectID": "index.html#section-13",
+    "href": "index.html#section-13",
     "title": "A cognitive perspective on trust in science",
     "section": "",
     "text": "Skepticism bias = Error(true news) - Error(false news)"
@@ -203,88 +168,123 @@
     "text": "Interim conclusion\n\n\nPeople discern rather well between true and false news.\n\n\nIf they err, they tend to be more skeptical of true news than gullible towards false news."
   },
   {
+    "objectID": "index.html#section-14",
+    "href": "index.html#section-14",
+    "title": "A cognitive perspective on trust in science",
+    "section": "",
+    "text": "But…"
+  },
+  {
+    "objectID": "index.html#section-15",
+    "href": "index.html#section-15",
+    "title": "A cognitive perspective on trust in science",
+    "section": "",
+    "text": "The vast majority of the studies relied on a hand full of fact-checked items (Snopes, PolitiFact etc.) selected by the researchers.\n\nOnly in 3 papers, the researchers automatically scraped news…"
+  },
+  {
+    "objectID": "index.html#section-16",
+    "href": "index.html#section-16",
+    "title": "A cognitive perspective on trust in science",
+    "section": "",
+    "text": "Even assuming that people are slightly more gullible than skeptical…\n\n\npeople consume very little information in general\n\n\n\n\namong this information, the share of misinformation very small"
+  },
+  {
+    "objectID": "index.html#section-17",
+    "href": "index.html#section-17",
+    "title": "A cognitive perspective on trust in science",
+    "section": "",
+    "text": "For example…\n\nIn the U.S., misinformation represents 1% of the news consumption and 0.15% of Americans’ daily media diet (Allen et al. 2020).\n\n\n\nIn France, misinformation represents 5% of the news consumption and 0.16% of people’s connected time (Cordonier and Brest 2021).\n\n\nUsing these base rates of information consumption, people being skeptical might be the more important issue"
+  },
+  {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "A cognitive perspective on trust in science",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nMisinformation (especially coming from elites) is a problem.\n\nBut people not believing true information might be the more pressing problem.\n\n\nResearchers should diversify their samples of news items"
+  },
+  {
+    "objectID": "index.html#section-18",
+    "href": "index.html#section-18",
+    "title": "A cognitive perspective on trust in science",
+    "section": "",
+    "text": "Most people trust science at least to some extent.\n\nYet, they don’t understand or know much about science."
+  },
+  {
     "objectID": "index.html#section-19",
     "href": "index.html#section-19",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "But…"
+    "text": "The rational impression account:\n\nWhen exposed to science (mostly during education) people rationally develop a positive impression of science–in particular of the competence of scientists–by\n\n\n\ninferring competence from possessing rare knowledge\n\n\n\n\ninferring accuracy from consensus\n\n\n\nHowever, they forget most of the information that gave rise to this impression."
   },
   {
     "objectID": "index.html#section-20",
     "href": "index.html#section-20",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "The vast majority of the studies relied on a hand full of fact-checked items (Snopes, PolitiFact etc.) selected by the researchers.\n\nOnly in 3 papers, the researchers automatically scraped news…"
-  },
-  {
-    "objectID": "index.html#why-is-this-interesting-3",
-    "href": "index.html#why-is-this-interesting-3",
-    "title": "A cognitive perspective on trust in science",
-    "section": "Why is this interesting?",
-    "text": "Why is this interesting?\n\n\nPeople not believing true information might be more pressing than people believing misinformation\n\n\nResearchers should diversify their samples of news items"
+    "text": "This aligns with normative accounts, which suggest that science is trustworthy because of convergent results from multiple sources and methods (Cartwright et al. 2022; Oreskes 2019)"
   },
   {
     "objectID": "index.html#section-21",
     "href": "index.html#section-21",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "Most people trust science at least to some extent.\n\nYet, they don’t understand or know much about science."
+    "text": "The rational impression account explains trust–not distrust\n\nEven people who trust most scientific knowledge can still distrust science on specific instances for many reasons"
   },
   {
     "objectID": "index.html#section-22",
     "href": "index.html#section-22",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "The rational impression account:\n\nWhen exposed to science (mostly during education) people rationally develop a positive impression of science–in particular of the competence of scientists–by\n\n\n\ninferring competence from possessing rare knowledge\n\n\n\n\ninferring accuracy from consensus\n\n\n\nHowever, they forget most of the information that gave rise to this impression."
+    "text": "For example, because some knowledge is perceived as particularly inconvenient\n\n(e.g., knowledge of climate change which would urge us to change our behavior)\n\n\nOr because it is rejected by other authorities–political, religious–people trust\n\n\n(e.g., the rejection of evolution among many religious communities)"
   },
   {
     "objectID": "index.html#section-23",
     "href": "index.html#section-23",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "This aligns with normative accounts, which suggest that science is trustworthy because of convergent results from multiple sources and methods (cartwrightTangleScienceReliability2022?; Oreskes 2019)"
+    "text": "Just because there is a rational explanation for trust, distrust does not need to be irrational."
   },
   {
     "objectID": "index.html#section-24",
     "href": "index.html#section-24",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "The rational impression account explains trust–not distrust\n\nEven people who trust most scientific knowledge can still distrust science on specific instances for many reasons"
+    "text": "For example, some groups have been systematically neglected or ill-treated by science, e.g. African Americans. (Brandt 1978; Scharff et al. 2010)\n\nEven if people believe scientists are competent, the might have reason to suspect that scientists don’t have their best interest at heart.\n\n\n\n(e.g., people who feel a general alienation from institutions, for instance due to rising inequality) (Gauchat 2011)\n\n\nthe tragically famous Tuskegee syphilis study"
   },
   {
     "objectID": "index.html#section-25",
     "href": "index.html#section-25",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "For example, because some knowledge is perceived as particularly inconvenient\n\n(e.g., knowledge of climate change which would urge us to change our behavior)\n\n\nOr because it is rejected by other authorities–political, religious–people trust\n\n\n(e.g., the rejection of evolution among many religious communities)"
+    "text": "The rational impression account is only a micro-level explanation.\n\nIt should be seen as complementary with macro-level (historical, sociological or political) explanations of trust in science.\n\n\n\n(e.g., the political forces that led to the development of universal science education in many countries) (Childs 2015)"
   },
   {
     "objectID": "index.html#section-26",
     "href": "index.html#section-26",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "Just because there is a rational explanation for trust, distrust does not need to be irrational.\n\nSome groups have been systematically neglected or ill-treated by science, e.g. African Americans. (Brandt 1978; Scharff et al. 2010)\n\n\nEven if people believe scientists are competent, people might believe that they don’t have their best interest at heart.\n\n\n\n(e.g., people who feel a general alienation from institutions, for instance due to rising inequality) (gauchatCulturalAuthorityScience2011?)\n\n\nthe tragically famous Tuskegee syphilis study"
+    "text": "Science communication fosters trust in science.\n\nEducation has a positive impact even if it does not result in long-term memory of scientific facts or in an in-depth understanding of science."
   },
   {
     "objectID": "index.html#section-27",
     "href": "index.html#section-27",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "The rational impression account is only a micro-level explanation.\n\nIt should be seen as complementary with macro-level (historical, sociological or political) explanations of trust in science.\n\n\n\n(e.g., the political forces that led to the development of universal science education in many countries) (Childs 2015)"
+    "text": "But…"
   },
   {
     "objectID": "index.html#section-28",
     "href": "index.html#section-28",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "Science communication should not stress consensus and impressiveness at all costs\n\nTransparency about uncertainty is crucial for a lasting trust relationship between science and the public (Druckman 2015; Petersen et al. 2021)\n\n\nIntellectual humility has been shown to increase trust in scientists (Koetke et al. 2024)"
+    "text": "Science communication should not stress consensus and impressiveness at all costs\n\n\nTransparency about uncertainty is crucial for a lasting trust relationship between science and the public (Druckman 2015; Petersen et al. 2021)\n\n\n\n\nIntellectual humility has been shown to increase trust in scientists (Koetke et al. 2024)"
   },
   {
     "objectID": "index.html#section-29",
     "href": "index.html#section-29",
     "title": "A cognitive perspective on trust in science",
     "section": "",
-    "text": "Ultimately, doing better science will foster trust in science\n\nPeople value open-science practices (Song, Markowitz, and Taylor 2022)\n\n\nThese practices will lead to more robust and consensual scientific findings\n\n\n\n(e.g., mandatory pre-registration for clinical trials) (Kaplan and Irvin 2015)"
+    "text": "Ultimately, doing better science will foster trust in science\n\n\nPeople value open-science practices (Song, Markowitz, and Taylor 2022)\n\n\n\n\nThese practices will lead to more robust and consensual scientific findings\n\n\n\n\n(e.g., mandatory pre-registration for clinical trials) (Kaplan and Irvin 2015)"
   },
   {
     "objectID": "index.html#thank-you",
@@ -298,6 +298,13 @@
     "href": "index.html#references",
     "title": "A cognitive perspective on trust in science",
     "section": "References",
-    "text": "References\n\n\n\n\nBrandt, Allan M. 1978. “Racism and Research: The Case of the Tuskegee Syphilis Study.” The Hastings Center Report 8 (6): 21. https://doi.org/10.2307/3561468.\n\n\nChilds, Peter E. 2015. “Curriculum Development in Science - Past, Present and Future.” Lumat: International Journal of Math, Science and Technology Education 3 (3): 381–400. https://doi.org/10.31129/lumat.v3i3.1036.\n\n\nDruckman, James N. 2015. “Communicating Policy-Relevant Science.” PS: Political Science & Politics 48 (S1): 58–69. https://doi.org/10.1017/S1049096515000438.\n\n\n———. 2022. “Threats to Science: Politicization, Misinformation, and Inequalities.” The ANNALS of the American Academy of Political and Social Science 700 (1): 8–24. https://doi.org/10.1177/00027162221095431.\n\n\nKaplan, Robert M., and Veronica L. Irvin. 2015. “Likelihood of Null Effects of Large NHLBI Clinical Trials Has Increased over Time.” PLOS ONE 10 (8): e0132382. https://doi.org/10.1371/journal.pone.0132382.\n\n\nKoetke, Jonah, Karina Schumann, Shauna M. Bowes, and Nina Vaupotič. 2024. “The Effect of Seeing Scientists as Intellectually Humble on Trust in Scientists and Their Research.” Nature Human Behaviour, November, 1–14. https://doi.org/10.1038/s41562-024-02060-x.\n\n\nLewandowsky, Stephan, and Klaus Oberauer. 2021. “Worldview-Motivated Rejection of Science and the Norms of Science.” Cognition 215 (October): 104820. https://doi.org/10.1016/j.cognition.2021.104820.\n\n\nNational Academies of Sciences, Engineering. 2024. Understanding and Addressing Misinformation about Science.\n\n\nNational Science Board, National Science Foundation. 2024. “Science and Technology: Public Perceptions, Awareness, and Information Sources.” https://ncses.nsf.gov/pubs/nsb20244.\n\n\nNewman, Nic, Richard Fletcher, Antonis Kalogeropoulos, and Rasmus Kleis Nielsen. 2018. “Reuters Institute Digital News Report 2018.”\n\n\nOreskes, Naomi. 2019. Why trust science? The University Center for Human Values series. Princeton Oxford: Princeton University Press.\n\n\nPetersen, Michael Bang, Alexander Bor, Frederik Jørgensen, and Marie Fly Lindholt. 2021. “Transparent Communication about Negative Features of COVID-19 Vaccines Decreases Acceptance but Increases Trust.” Proceedings of the National Academy of Sciences 118 (29): e2024597118. https://doi.org/10.1073/pnas.2024597118.\n\n\nPfänder, Jan, and Sacha Altay. 2025. “Spotting False News and Doubting True News: A Systematic Review and Meta-Analysis of News Judgements.” Nature Human Behaviour, February, 1–12. https://doi.org/10.1038/s41562-024-02086-1.\n\n\nPfänder, Jan, Lou Kerzreho, and Hugo Mercier. 2025. “Quasi-Universal Acceptance of Basic Science in the US,” March. https://doi.org/10.31219/osf.io/qc43v_v2.\n\n\nPfänder, Jan, and Hugo Mercier. 2025. “The French Trust More the Sciences They Perceive as Precise and Consensual,” April. https://doi.org/10.31219/osf.io/k9m6e_v1.\n\n\nScharff, Darcell P., Katherine J. Mathews, Pamela Jackson, Jonathan Hoffsuemmer, Emeobong Martin, and Dorothy Edwards. 2010. “More Than Tuskegee: Understanding Mistrust about Research Participation.” Journal of Health Care for the Poor and Underserved 21 (3): 879–97. https://doi.org/10.1353/hpu.0.0323.\n\n\nScheufele, Dietram A., and Nicole M. Krause. 2019. “Science Audiences, Misinformation, and Fake News.” Proceedings of the National Academy of Sciences 116 (16): 7662–69. https://doi.org/10.1073/pnas.1805871115.\n\n\nSong, Hyunjin, David M Markowitz, and Samuel Hardman Taylor. 2022. “Trusting on the Shoulders of Open Giants? Open Science Increases Trust in Science for the Public and Academics.” Journal of Communication 72 (4): 497–510. https://doi.org/10.1093/joc/jqac017."
+    "text": "References\n\n\nAllen, Jennifer, Baird Howland, Markus Mobius, David Rothschild, and Duncan J. Watts. 2020. “Evaluating the Fake News Problem at the Scale of the Information Ecosystem.” Science Advances 6 (14): eaay3539. https://doi.org/10.1126/sciadv.aay3539.\n\n\nAllum, Nick, Patrick Sturgis, Dimitra Tabourazi, and Ian Brunton-Smith. 2008. “Science Knowledge and Attitudes Across Cultures: A Meta-Analysis.” Public Understanding of Science 17 (1): 35–54. https://doi.org/10.1177/0963662506070159.\n\n\nBrandt, Allan M. 1978. “Racism and Research: The Case of the Tuskegee Syphilis Study.” The Hastings Center Report 8 (6): 21. https://doi.org/10.2307/3561468.\n\n\nCartwright, Nancy, Jeremy Hardie, Eleonora Montuschi, Matthew Soleiman, and Ann C. Thresher. 2022. The Tangle of Science: Reliability Beyond Method, Rigour, and Objectivity. New York: Oxford University Press.\n\n\nChilds, Peter E. 2015. “Curriculum Development in Science - Past, Present and Future.” Lumat: International Journal of Math, Science and Technology Education 3 (3): 381–400. https://doi.org/10.31129/lumat.v3i3.1036.\n\n\nCologna, Viktoria, Niels G. Mede, Sebastian Berger, John Besley, Cameron Brick, Marina Joubert, Edward W. Maibach, et al. 2025. “Trust in Scientists and Their Role in Society Across 68 Countries.” Nature Human Behaviour, January, 1–18. https://doi.org/10.1038/s41562-024-02090-5.\n\n\nCordonier, Laurent, and Aurélien Brest. 2021. “How Do the French Inform Themselves on the Internet? Analysis of Online Information and Disinformation Behaviors,” 45.\n\n\nDruckman, James N. 2015. “Communicating Policy-Relevant Science.” PS: Political Science & Politics 48 (S1): 58–69. https://doi.org/10.1017/S1049096515000438.\n\n\n———. 2022. “Threats to Science: Politicization, Misinformation, and Inequalities.” The ANNALS of the American Academy of Political and Social Science 700 (1): 8–24. https://doi.org/10.1177/00027162221095431.\n\n\nGauchat, Gordon. 2011. “The Cultural Authority of Science: Public Trust and Acceptance of Organized Science.” Public Understanding of Science 20 (6): 751–70. https://doi.org/10.1177/0963662510365246.\n\n\nHornsey, Matthew J., and Kelly S. Fielding. 2017. “Attitude Roots and Jiu Jitsu Persuasion: Understanding and Overcoming the Motivated Rejection of Science.” American Psychologist 72 (5): 459–73. https://doi.org/10.1037/a0040437.\n\n\nKaplan, Robert M., and Veronica L. Irvin. 2015. “Likelihood of Null Effects of Large NHLBI Clinical Trials Has Increased over Time.” PLOS ONE 10 (8): e0132382. https://doi.org/10.1371/journal.pone.0132382.\n\n\nKoetke, Jonah, Karina Schumann, Shauna M. Bowes, and Nina Vaupotič. 2024. “The Effect of Seeing Scientists as Intellectually Humble on Trust in Scientists and Their Research.” Nature Human Behaviour, November, 1–14. https://doi.org/10.1038/s41562-024-02060-x.\n\n\nLewandowsky, Stephan, and Klaus Oberauer. 2016. “Motivated Rejection of Science.” Current Directions in Psychological Science 25 (4): 217–22. https://doi.org/10.1177/0963721416654436.\n\n\n———. 2021. “Worldview-Motivated Rejection of Science and the Norms of Science.” Cognition 215 (October): 104820. https://doi.org/10.1016/j.cognition.2021.104820.\n\n\nNational Academies of Sciences, Engineering. 2024. Understanding and Addressing Misinformation about Science.\n\n\nNational Academies of Sciences, Engineering, and Medicine. 2016. Science Literacy: Concepts, Contexts, and Consequences. Edited by Catherine E. Snow and Kenne A. Dibner. Washington, D.C.: National Academies Press. https://doi.org/10.17226/23595.\n\n\nNational Science Board, National Science Foundation. 2024. “Science and Technology: Public Perceptions, Awareness, and Information Sources.” https://ncses.nsf.gov/pubs/nsb20244.\n\n\nNewman, Nic, Richard Fletcher, Antonis Kalogeropoulos, and Rasmus Kleis Nielsen. 2018. “Reuters Institute Digital News Report 2018.”\n\n\nOreskes, Naomi. 2019. Why trust science? The University Center for Human Values series. Princeton Oxford: Princeton University Press.\n\n\nPennycook, Gordon, Jabin Binnendyk, Christie Newton, and David G. Rand. 2021. “A Practical Guide to Doing Behavioral Research on Fake News and Misinformation.” Collabra: Psychology 7 (1): 25293. https://doi.org/10.1525/collabra.25293.\n\n\nPetersen, Michael Bang, Alexander Bor, Frederik Jørgensen, and Marie Fly Lindholt. 2021. “Transparent Communication about Negative Features of COVID-19 Vaccines Decreases Acceptance but Increases Trust.” Proceedings of the National Academy of Sciences 118 (29): e2024597118. https://doi.org/10.1073/pnas.2024597118.\n\n\nPfänder, Jan, and Sacha Altay. 2025. “Spotting False News and Doubting True News: A Systematic Review and Meta-Analysis of News Judgements.” Nature Human Behaviour, February, 1–12. https://doi.org/10.1038/s41562-024-02086-1.\n\n\nPfänder, Jan, Benoît De Courson, and Hugo Mercier. 2025. “How Wise Is the Crowd: Can We Infer People Are Accurate and Competent Merely Because They Agree with Each Other?” Cognition 255 (February): 106005. https://doi.org/10.1016/j.cognition.2024.106005.\n\n\nPfänder, Jan, Sophie De Rouilhan, and Hugo Mercier. 2025. “Trusting but Forgetting Impressive Science,” March. https://doi.org/10.31219/osf.io/argq5_v1.\n\n\nPfänder, Jan, Lou Kerzreho, and Hugo Mercier. 2025. “Quasi-Universal Acceptance of Basic Science in the US,” March. https://doi.org/10.31219/osf.io/qc43v_v2.\n\n\nPfänder, Jan, and Hugo Mercier. 2025. “The French Trust More the Sciences They Perceive as Precise and Consensual,” April. https://doi.org/10.31219/osf.io/k9m6e_v1.\n\n\nRutjens, Bastiaan T., and Bojana Većkalov. 2022. “Conspiracy Beliefs and Science Rejection.” Current Opinion in Psychology 46 (August): 101392. https://doi.org/10.1016/j.copsyc.2022.101392.\n\n\nScharff, Darcell P., Katherine J. Mathews, Pamela Jackson, Jonathan Hoffsuemmer, Emeobong Martin, and Dorothy Edwards. 2010. “More Than Tuskegee: Understanding Mistrust about Research Participation.” Journal of Health Care for the Poor and Underserved 21 (3): 879–97. https://doi.org/10.1353/hpu.0.0323.\n\n\nScheufele, Dietram A., and Nicole M. Krause. 2019. “Science Audiences, Misinformation, and Fake News.” Proceedings of the National Academy of Sciences 116 (16): 7662–69. https://doi.org/10.1073/pnas.1805871115.\n\n\nSong, Hyunjin, David M Markowitz, and Samuel Hardman Taylor. 2022. “Trusting on the Shoulders of Open Giants? Open Science Increases Trust in Science for the Public and Academics.” Journal of Communication 72 (4): 497–510. https://doi.org/10.1093/joc/jqac017.\n\n\nStockemer, Daniel, and Jean-Nicolas Bordeleau. 2024. “Understanding Climate Change Conspiracy Beliefs: A Comparative Outlook.” Harvard Kennedy School Misinformation Review 5 (6). https://doi.org/10.37016/mr-2020-162.\n\n\nSturgis, Patrick, and Nick Allum. 2004. “Science in Society: Re-Evaluating the Deficit Model of Public Attitudes.” Public Understanding of Science 13 (1): 55–74. https://doi.org/10.1177/0963662504042690.\n\n\nWellcome Global Monitor. 2018. “Wellcome Global Monitor 2018.” https://wellcome.org/reports/wellcome-global-monitor/2018."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nAllen et al. (2020) Cordonier and Brest (2021)\n\n\n\n\nReferences\n\nAllen, Jennifer, Baird Howland, Markus Mobius, David Rothschild, and Duncan J. Watts. 2020. “Evaluating the Fake News Problem at the Scale of the Information Ecosystem.” Science Advances 6 (14): eaay3539. https://doi.org/10.1126/sciadv.aay3539.\n\n\nCordonier, Laurent, and Aurélien Brest. 2021. “How Do the French Inform Themselves on the Internet? Analysis of Online Information and Disinformation Behaviors,” 45."
   }
 ]
