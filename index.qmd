@@ -1,9 +1,4 @@
 ---
-title: |
-  A cognitive perspective on trust in science
-subtitle: "(PhD thesis defense)"
-author: "Jan Pfänder"
-date: "9/03/2025"
 format: 
   revealjs:
     theme: [dark, custom.scss]
@@ -34,6 +29,80 @@ library(broom.mixed)
 library(ggpubr)
 ```
 
+# A cognitive perspective on trust in science {style="text-align: center;"}
+
+**PhD thesis defense**  
+
+Jan Pfänder
+
+<br>
+
+*Supervised by* 
+
+Hugo Mercier & Kevin Arceneaux  
+
+*9/03/2025*
+
+::: {.absolute bottom="-200px" left="24%"}
+![](images/institut_jean_nicod.png){height="80px"}
+:::
+
+::: {.absolute bottom="-200px" right="24%"}
+![](images/ens.png){height="80px"}
+:::
+
+
+
+---
+
+## Overview
+
+::: {.columns style="font-size:1.2em;"}
+
+::: {.column width="30%"}
+[Chapter 1 & 2] 
+
+<br>
+
+[Chapters 3 & 4] 
+
+<br>
+
+[Chapter 5 & 6] 
+
+<br>
+
+[Chapter 7]
+
+<br>
+
+[Chapter 8] 
+:::
+
+::: {.column width="70%"}
+Summary / Introduction 
+
+<br>
+
+Cognitive mechanisms to explain trust in science
+
+<br>
+
+Predictions of these mechanisms
+
+<br>
+
+Misinformation 
+
+<br>
+
+Conclusion 
+:::
+
+:::
+
+---
+
 ::: {.big-center}
 Trust in science matters...
 :::
@@ -63,7 +132,7 @@ Similarly, not trusting vaccines puts both ourselves and others at serious healt
 ---
 
 ::: {.big-center}
-Researchers are typically interested in why people do *NOT* trust science
+Researchers are typically interested in why people do *NOT* trust science.
 :::
 
 ---
@@ -73,23 +142,23 @@ Researchers are typically interested in why people do *NOT* trust science
 ::: {style="font-size: 1.3em"}
 
 ::: {.fragment}
-- a **knowledge deficit** <span style="font-size: 50%;">[@sturgisScienceSocietyReEvaluating2004]</span> 
+- a **knowledge deficit**, <span style="font-size: 50%;">[@sturgisScienceSocietyReEvaluating2004]</span> 
 :::
 
 ::: {.fragment}
-- certain **psychological traits**, such as Social Dominance Orientation, conspiratory thinking, hierarchical worldviews <span style="font-size: 50%;">[@hornseyAttitudeRootsJiu2017a;@rutjensConspiracyBeliefsScience2022]</span>
+- certain **psychological traits**, such as Social Dominance Orientation, conspiratory thinking, hierarchical worldviews, <span style="font-size: 50%;">[@hornseyAttitudeRootsJiu2017a;@rutjensConspiracyBeliefsScience2022]</span>
 :::
 
 ::: {.fragment}
-- **motivated reasoning**, i.e. selecting and interpreting information to match one’s existing beliefs or behaviors <span style="font-size: 50%;">[@lewandowskyMotivatedRejectionScience2016; @lewandowskyWorldviewmotivatedRejectionScience2021]</span>
+- **motivated reasoning**, i.e. selecting and interpreting information to match one’s existing beliefs or behaviors, <span style="font-size: 50%;">[@lewandowskyMotivatedRejectionScience2016; @lewandowskyWorldviewmotivatedRejectionScience2021]</span>
 :::
 
 ::: {.fragment}
-- **misinformation** <span style="font-size: 50%;">[@nationalacademiesofsciencesUnderstandingAddressingMisinformation2024; @scheufeleScienceAudiencesMisinformation2019; @druckmanThreatsSciencePoliticization2022]</span>
+- **misinformation**, <span style="font-size: 50%;">[@nationalacademiesofsciencesUnderstandingAddressingMisinformation2024; @scheufeleScienceAudiencesMisinformation2019; @druckmanThreatsSciencePoliticization2022]</span>
 :::
 
 ::: {.fragment}
-- people feeling **alienated** from modern and increasingly complex institutions <span style="font-size: 50%;">[@gauchatCulturalAuthorityScience2011]</span> 
+- or du to people feeling **alienated** from modern and increasingly complex institutions. <span style="font-size: 50%;">[@gauchatCulturalAuthorityScience2011]</span> 
 :::
 
 :::
@@ -108,7 +177,7 @@ Across the globe, most people *do* tend to trust science.
 
 ---
 
-![@colognaTrustScientistsTheir2025](images/cologna_manylabs.png){fig-align="center"}
+![[@colognaTrustScientistsTheir2025]](images/cologna_manylabs.png){fig-align="center"}
 
 ::: {.absolute left="27%" bottom="3.5%" style="font-size:1.5em; color:black; z-index:9999;"}
 Low (1)
@@ -128,7 +197,14 @@ A recent manylabs study that we contributed to measured trust in scientists acro
 
 ## {.big-center}
 
-According to existing accounts, if trust in science is rational, it should be caused mostly by knowledge and understanding of science.
+The literature focuses mostly on why people do not trust science.
+
+. . .
+
+Elevated public trust in science is considered the rational default state--it's the deviations that require an explanation. 
+. . .
+
+The "knowledge deficit" view suggests: if trust in science is rational, it should be caused mostly by knowledge and understanding of science.
 
 . . .
 
@@ -149,7 +225,7 @@ People don't know much about science
 
 ::: {.column width="80%"}
 
-![@nationalacademiesofsciencesengineeringandmedicineScienceLiteracyConcepts2016](images/science_literacy.jpg)
+![[@nationalacademiesofsciencesengineeringandmedicineScienceLiteracyConcepts2016]](images/science_literacy.jpg)
 :::
 
 ::::
@@ -189,31 +265,13 @@ In 2014, only 51 % of U.S. adults (correctly) stated that electrons are smaller 
 
 ---
 
-::::: {.columns style='display: flex !important; height: 90%;'}
-
-::: {.column width="20%" style='display: flex; justify-content: center; align-items: center;'}
-
 :::{.big-center}
 
-::: {.fragment}
-In 2020, 
+In 2020, only 
 
-"60% of U.S. adults could correctly note that a control group can be useful in making sense of study results"
-:::
+"60% of U.S. adults could correctly note that a control group can be useful in making sense of study results." <span style="font-size: 50%;">[@nationalscienceboardnationalsciencefoundationScienceTechnologyPublic2024, p.24]</span> 
 
 :::
-
-:::
-
-::: {.column width="80%"}
-
-::: {.normal-center}
-![@nationalscienceboardnationalsciencefoundationScienceTechnologyPublic2024, p.24](images/science_engineering_indicators.png)
-:::
-
-:::
-
-::::
 
 --- 
 
@@ -257,17 +315,17 @@ A cognitive model of how people come to trust science
 ## Two basic cognitive mechanisms
 
 ::: {.fragment fragment-index=1 style="font-size:1.5em;"}
-::: {.fragment .highlight-red fragment-index=6}
-1. People infer competence from possessing rare knowledge. [But while the impression of competence persists, people forget the specific knowledge [Chapter 3]]{.fragment fragment-index="2"}
+::: {.fragment .highlight-blue fragment-index=6}
+1. People infer competence from possessing rare knowledge. [But while the impression of competence persists, people forget the specific knowledge. [Chapter 3]]{.fragment fragment-index="2"}
 :::
 :::
 
 ::: {.fragment fragment-index=3 .fade-in-then-out style="font-size:30px;"}
-*For example, if a colleague at work fixes our computer, we might remember that she is competent, but not exactly how she fixed it.*
+*For example, if a colleague at work fixes our computer, we might remember that they are competent, but not exactly how they fixed it.*
 :::
 
 ::: {.fragment fragment-index=4 style="font-size:1.5em;"}
-2. People infer accuracy from consensus [Chapter 4]
+2. People infer accuracy from consensus. [Chapter 4]
 :::
 
 ::: {.fragment fragment-index=5 .fade-in-then-out style="font-size:30px;"}
@@ -275,6 +333,8 @@ A cognitive model of how people come to trust science
 :::
 
 ::: {.notes}
+But: rare knowledge is only impressive if true...
+
 In the example with our colleague, we can evaluate that they are right, because we can see with our own eyes that our computer works after their fix. 
 
 But in the case of science, we cannot observe or interpret most of the results ourselves.
@@ -347,11 +407,11 @@ Version B [(*more* impressive)]{.fragment fragment-index="3"}
 ## {.big-center}
 
 
-Participants perceived some science related information as more impressive than other. 
+Participants perceived the impressive texts as more impressive. 
 
 . . .
 
-This had an impact on their trust in the scientific discipline and their perceptions of the scientists' competence...
+This had an impact on their trust in the scientific discipline and their perceptions of the scientists' competence.
 
 ---
 
@@ -395,10 +455,10 @@ Again, participants reported increased perceptions of trust and competence.
 ---
 
 ::: {.big-center}
-Then, right after, we asked participants to recall what they had read (open-ended question)
+Then, right after, we asked participants to recall what they had read (open-ended question).
 
 ::: {.fragment}
-Result: not much
+Result: not much.
 :::
 :::
 
@@ -462,7 +522,7 @@ mean = 32%, median= 29%
 ::: {.big-center}
 
 ::: {.fragment}
-When people read impressive scientific information, their trust in the scientific discipline increases
+When people read impressive scientific information, their trust in the scientific discipline increases.
 :::
 
 ::: {.fragment}
@@ -494,8 +554,8 @@ Two arguments against this:
 :::
 
 ::: {.fragment fragment-index=1 style="font-size:1.5em;"}
-::: {.fragment .highlight-red fragment-index=2}
-2. People infer accuracy from consensus [Chapter 4]
+::: {.fragment .highlight-blue fragment-index=2}
+2. People infer accuracy from consensus. [Chapter 4]
 :::
 :::
 
@@ -581,26 +641,16 @@ Wouldn't that give you enough ground to believe not only that the estimates migh
 ---
 
 ::: {.big-center}
-This inference--from agreement to both accuracy and competence--is, in fact, rational. 
-:::
-
----
-
-::: {.big-center}
-
-The literature on wisdom of crowds has established that it is justified to infer accuracy from consensus...[*assuming a certain competence of the individuals*.]{.fragment} 
-
-::: {.fragment}
-In simulations, we show that this competence assumption is not needed.
-:::
-
-::: {.fragment}
-In fact, it is justified to infer both accuracy *and* competence from convergence, in many scenarios.
-:::
-
+In simulations, we show that this inference--from agreement to both accuracy and competence--is, in fact, rational. 
 :::
 
 ::: {.notes}
+The literature on wisdom of crowds has established that it is justified to infer accuracy from consensus...*assuming a certain competence of the individuals*. 
+
+In simulations, we show that this competence assumption is not needed.
+
+In fact, it is justified to infer both accuracy *and* competence from convergence, in many scenarios.
+
 The most important assumption underlying these simulations was that informants are not systematically biased, i.e. all of them share a tendency to be wrong.
 :::
 
@@ -639,7 +689,7 @@ Divergent
 ---
 
 ::: {.big-center}
-Participant behaved as what was predicted to be rational by our simulations: 
+Participants behaved as what was predicted to be rational by our simulations: 
 
 ::: {.fragment}
 They rated more convergent groups as more likely to be accurate and to be competent.
@@ -653,7 +703,7 @@ They rated more convergent groups as more likely to be accurate and to be compet
 
 ::: {.big-center}
 
-::: {.fragment .highlight-red fragment-index=2}
+::: {.fragment .highlight-blue fragment-index=2}
 [Chapter 5] People should trust science more if they perceive it as more consensual and precise.
 :::
 
@@ -721,7 +771,7 @@ We also asked them about their trust.
 
 [Chapter 5] People should trust science more if they perceive it as more consensual and precise.
 
-::: {.fragment .highlight-red fragment-index=1}
+::: {.fragment .highlight-blue fragment-index=1}
 [Chapter 6] People who have been exposed to science (mostly during school) should trust most of science. 
 :::
 
@@ -761,7 +811,7 @@ Even if most people tend to trust science...
 Substantial minorities... 
 
 :::{.fragment}
-- say that they don't trust science in general <span style="font-size: 50%;">[@wellcomeglobalmonitorWellcomeGlobalMonitor2018]</span>,
+- say that they don't trust science in general, <span style="font-size: 50%;">[@wellcomeglobalmonitorWellcomeGlobalMonitor2018]</span>
 :::
 
 :::{.fragment}
@@ -770,7 +820,7 @@ Substantial minorities...
 
 :::{.fragment}
 ::: {style="font-size:30px;"}
-*(e.g., in 2023, 24% of Americans agreed that “climate change is a hoax and scientists touting its existence are lying”)<span style="font-size: 50%;">[@stockemerUnderstandingClimateChange2024]</span>*
+*E.g., in 2023, 24% of Americans agreed that “climate change is a hoax and scientists touting its existence are lying”. <span style="font-size: 50%;">[@stockemerUnderstandingClimateChange2024]</span>*
 :::
 :::
 
@@ -780,11 +830,7 @@ Substantial minorities...
 
 ## {.big-center}
 
-To which extent do these people reject science?
-
-. . .
-
-According to the rational impression account, people who have been exposed to science (essentially everyone who grew up in the US, via education) should have a solid baseline of trust in science. 
+To which extent do these people reject scientific knowledge?
 
 ---
 
@@ -812,8 +858,22 @@ Then we asked: “Do you accept this answer?”
 
 ---
 
+:::{.big-center}
+We also asked: 
+
+:::{.fragment}
+"In general, would you say that you trust science a lot, some, not much, or not at all?"<span style="font-size: 50%;">[@wellcomeglobalmonitorWellcomeGlobalMonitor2018]</span>
+:::
+:::
+
+---
+
 
 ![](images/quasi-universal_acceptance.png)
+
+::: {.fragment .fade-out}
+<div style="position:absolute; top:23%; left:10%; width:75%; height:63%; background:white;"></div>
+:::
 
 ::: {.fragment .fade-out}
 <div style="position:absolute; top:23%; left:10%; width:57%; height:63%; background:white;"></div>
@@ -847,6 +907,13 @@ Even participants who strongly believed that the earth is flat (4 % of participa
 
 :::
 
+:::{.notes}
+This suggests in many instances, science rejection might have nothing to do with how people evaluate the underlying science.
+
+Instead, other factors (e.g. political ideology) motivate people to reject specific science beliefs. 
+:::
+
+
 # [Chapter 7] <br> <br> Spotting False News and Doubting True News, A Meta-Analysis of News Judgments
 
 ::: {.absolute right="-10%" bottom="-10%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
@@ -867,21 +934,13 @@ At least since 2016--with the election of Donald Trump and Brexit--people genera
 
 ---
 
-![@newmanReutersInstituteDigital2018](images/reuters_2018.png){fig-align="center" width="100%"}
-
-:::{.notes}
-Something that is sometimes overseen: people don't seem to trust true information a whole lot
-:::
-
----
-
 ## {.big-center}
 
 There has been a lot of research on people's belief in misinformation
 
 ---
 
-![@pennycookPracticalGuideDoing2021](images/example-item2.jpg){fig-align="center" width="100%"}
+![[@pennycookPracticalGuideDoing2021]](images/example-item2.jpg){fig-align="center" width="100%"}
 
 :::{.notes}
 In these studies, news are presented as they often appear on social media (picture, source or not, headline, sometimes a short lede)
@@ -889,7 +948,7 @@ In these studies, news are presented as they often appear on social media (pictu
 
 ---
 
-![@pennycookPracticalGuideDoing2021](images/example-item.jpg){width="100%"}
+![[@pennycookPracticalGuideDoing2021]](images/example-item.jpg){width="100%"}
 
 ---
 
@@ -957,7 +1016,7 @@ For 203 of 303 effect sizes, people made (slightly) more errors on true news tha
 
 ---
 
-## Interim conclusion 
+## Conclusion 
 
 ::: {.big-center}
 
@@ -973,93 +1032,27 @@ If they err, they tend to be more skeptical of true news than gullible towards f
 
 ---
 
-## {.big-center}
-
-But...
-
----
-
-## {.big-center}
-
-The vast majority of the studies relied on a hand full of fact-checked items (Snopes, PolitiFact etc.) selected by the researchers.
-
-. . .
-
-Only in 3 papers, the researchers automatically scraped news...
-
----
-
-![](images/forest-automated.png){width="70%"}
-
-:::{.notes}
-The Garret study has been a longitudinal study and therefor provides many, many effect sizes. 
-:::
-
----
-
-## {.big-center}
-
-There might be a selection bias in news items that lets people appear more skeptical in misinformation studies than they are in the real world. 
-
-. . .
-
-But this does not change the broad conclusions... 
-
-:::{.notes}
-It is important to keep in mind that these are only 3 of more than 60 papers, all in the US. If they don't suffer from researcher selection bias of news items, they are not representative in many other ways...
-:::
-
----
-
-## {.big-center}
-
-Even assuming that people are slightly more gullible than skeptical...
-
-. . .
-
-- people consume very little information in general 
-
-. . .
-
-- among this information, the share of misinformation very small
-
----
-
-## {.big-center}
-
-For example... 
-
-- In the U.S., misinformation represents 1% of the news consumption and 0.15% of Americans’ daily media diet <span style="font-size: 50%;">[@allenEvaluatingFakeNews2020a]</span>.
-
-. . .
-
-- In France, misinformation represents 5% of the news consumption and 0.16% of people’s connected time <span style="font-size: 50%;">[@cordonierHowFrenchInform2021]</span>.
-
-::: {.notes}
-Using these base rates of information consumption, people being skeptical might be the more important issue
-:::
-
----
-
-## Conclusion
+## Conclusion 
 
 ::: {.big-center}
 
-::: {.fragment}
 Misinformation (especially coming from elites) is a problem.
-:::
 
 ::: {.fragment}
 But people *not* believing true information might be the more pressing problem.
 :::
 
-::: {.fragment}
-Researchers should diversify their samples of news items
 :::
 
+---
+
+![[@newmanReutersInstituteDigital2018]](images/reuters_2018.png){fig-align="center" width="100%"}
+
+:::{.notes}
+Something that is sometimes overseen: people don't seem to trust news a whole lot - which is problematic given that most news are true
 :::
 
-# General discussion
+# General conclusion
 
 ---
 
@@ -1079,15 +1072,15 @@ The rational impression account:
 
 . . .
 
-When exposed to science (mostly during education) people rationally develop a positive impression of science–in particular of the competence of scientists--by
+When exposed to science, people rationally develop a positive impression of science–in particular of the competence of scientists--by
 
 . . .
 
-- inferring competence from possessing rare knowledge
+- inferring competence from possessing rare knowledge,
 
 . . .
 
-- inferring accuracy from consensus
+- and by inferring accuracy from consensus.
 
 . . .
 
@@ -1097,7 +1090,25 @@ However, they forget most of the information that gave rise to this impression.
 
 ## {.big-center}
 
-This aligns with normative accounts, which suggest that science is trustworthy because of convergent results from multiple sources and methods <span style="font-size: 50%;">[@cartwrightTangleScienceReliability2022; @oreskesWhyTrustScience2019]</span>
+This account can make sense of two facts that appear conflicting:
+
+. . .
+
+1. Science knowledge is only a weak predictor of trust in science. <span style="font-size: 50%;">[@allumScienceKnowledgeAttitudes2008]</span>
+
+. . .
+
+2. Education--in particular science education--is the strongest predictor of trust in science. <span style="font-size: 50%;">[@noyScienceGoodEffects2019; @wellcomeglobalmonitorWellcomeGlobalMonitor2018]</span>
+
+---
+
+## {.big-center}
+
+According to the rational impression account, education mostly works by fostering (rational) impressions. 
+
+. . .
+
+This does not require building a profound understanding of science, or a long-term memory of certain science facts.
 
 # Limitations
 
@@ -1118,15 +1129,15 @@ Even people who trust most scientific knowledge can still distrust science on sp
 For example, because some knowledge is perceived as particularly inconvenient 
 
 ::: {.fragment fragment-index=1 .fade-in-then-out style="font-size:30px;"}
-*(e.g., knowledge of climate change which would urge us to change our behavior)*
+*E.g., knowledge of climate change which would urge us to change our behavior*
 :::
 
 ::: {.fragment fragment-index=2}
-Or because it is rejected by other authorities–political, religious–people trust
+Or because it is rejected by other authorities–political, religious–which people trust
 :::
 
 ::: {.fragment fragment-index=3 .fade-in-then-out style="font-size:30px;"}
-*(e.g., the rejection of evolution among many religious communities)*
+*E.g., the rejection of evolution among many religious communities*
 :::
 
 ---
@@ -1139,7 +1150,7 @@ Just because there is a rational explanation for trust, distrust does not need t
 
 ## {.big-center}
 
-Some groups have been systematically neglected or ill-treated by science, e.g. African Americans. <span style="font-size: 50%;">[@brandtRacismResearchCase1978; @scharffMoreTuskegeeUnderstanding2010]</span> 
+Some groups have been systematically neglected or ill-treated by science, e.g., African Americans. <span style="font-size: 50%;">[@brandtRacismResearchCase1978; @scharffMoreTuskegeeUnderstanding2010]</span> 
 
 . . .
 
@@ -1148,7 +1159,7 @@ Some people--even if they believe scientists are competent--can have reason to s
 . . .
 
 ::: {style="font-size:30px;"}
-*(e.g., people who feel a general alienation from institutions, for instance due to rising inequality) <span style="font-size: 50%;">[@gauchatCulturalAuthorityScience2011]</span>*
+*E.g., people who feel a general alienation from institutions, for instance due to rising inequality <span style="font-size: 50%;">[@gauchatCulturalAuthorityScience2011]</span>*
 :::
 
 
@@ -1169,7 +1180,7 @@ It should be seen as complementary with macro-level (historical, sociological or
 . . .
 
 ::: {style="font-size:30px;"}
-(e.g., the political forces that led to the development of universal science education in many countries) <span style="font-size: 50%;">[@childsCurriculumDevelopmentScience2015]</span>
+*E.g., the political forces that led to the development of universal science education in many countries <span style="font-size: 50%;">[@childsCurriculumDevelopmentScience2015]</span>*
 :::
 
 # Implications
@@ -1208,20 +1219,20 @@ Science communication should *not* stress consensus and impressiveness at all co
 
 ## {.big-center}
 
-Ultimately, doing better science will foster trust in science
+Ultimately, doing better science will foster trust in science.
 
 . . .
 
-- People value open-science practices <span style="font-size: 50%;">[@songTrustingShouldersOpen2022]</span>
+For example, people value open-science practices. <span style="font-size: 50%;">[@songTrustingShouldersOpen2022]</span>
 
 . . .
 
-- These practices will lead to more robust and consensual scientific findings
+These practices lead to more robust and consensual scientific findings.
 
 . . .
 
 ::: {style="font-size:30px;"}
-(e.g., mandatory pre-registration for clinical trials) <span style="font-size: 50%;">[@kaplanLikelihoodNullEffects2015]</span>
+*E.g., mandatory pre-registration for clinical trials <span style="font-size: 50%;">[@kaplanLikelihoodNullEffects2015]</span>*
 :::
 
 ---
@@ -1237,5 +1248,90 @@ Ultimately, doing better science will foster trust in science
 
 # Backup slides
 
+# [Chapter 7] <br> <br> Spotting False News and Doubting True News, A Meta-Analysis of News Judgments
+
+::: {.absolute right="-10%" bottom="-10%" style="font-size:1em; z-index:9999; width:300px; white-space:normal;"}
+[@pfanderSpottingFalseNews2025]
+:::
+
+::: {.absolute top="-5%" right="-10%" .fragment .fade-in-then-out fragment-index=1}
+![Sacha Altay](images/sacha.jpg){height="150px"}
+:::
+
+## {.big-center}
+
+The vast majority of the studies relied on a hand full of fact-checked items (Snopes, PolitiFact etc.) selected by the researchers.
+
+. . .
+
+Only in 3 papers, the researchers automatically scraped news...
+
+---
+
+![](images/forest-automated.png){width="70%"}
+
+:::{.notes}
+The Garret study has been a longitudinal study and therefor provides many, many effect sizes. 
+:::
+
+---
+
+## {.big-center}
+
+There might be a bias in the selection of news items that researchers use.
+
+People might appear more skeptical in misinformation studies than would be in the real world. 
+
+. . .
+
+But this does not change the broad conclusions... 
+
+:::{.notes}
+It is important to keep in mind that these are only 3 of more than 60 papers, all in the US. If they don't suffer from researcher selection bias of news items, they are not representative in many other ways...
+:::
+
+---
+
+## {.big-center}
+
+Even assuming that people are slightly more gullible than skeptical...
+
+. . .
+
+- people consume very little information in general 
+
+. . .
+
+- among this information, the share of misinformation very small
+
+---
+
+## {.big-center}
+
+For example... 
+
+- In the U.S., misinformation represents 1% of the news consumption and 0.15% of Americans’ daily media diet. <span style="font-size: 50%;">[@allenEvaluatingFakeNews2020a]</span>
+
+. . .
+
+- In France, misinformation represents 5% of the news consumption and 0.16% of people’s connected time. <span style="font-size: 50%;">[@cordonierHowFrenchInform2021]</span>
+
+::: {.notes}
+Using these base rates of information consumption, people being skeptical might be the more important issue
+:::
+
+---
+
+![[@acerbiResearchNoteFighting2022]](images/exposure_misinformation.png){fig-align="center" width="100%"}
+
+---
+
+![[@newmanReutersInstituteDigital2024]](images/reuters_interest_2024.png){fig-align="center" width="100%"}
+
+:::{.notes}
+In 2017, 63% of people said they were very or extremely interested in the news.
+
+In 2024, this number was down to 46%.
+:::
 
 
